@@ -22,7 +22,7 @@ NOTE: REMEMBER THAT FOR A TRANSACTION TO BE DISPLAYED YOU NEED TO HAVE A BUY AMO
 If you have git installed on your computer you can fetch the content of this repository with the command : 
 
 ```
-git clone 
+git clone https://github.com/Skairi-crypto/PumpFunBot.git
 ```
 
 Or you can just Download the Bot by clicking in the CODE button and Download the ZIP file
