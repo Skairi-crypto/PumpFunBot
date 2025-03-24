@@ -1,8 +1,10 @@
-# PumpFunVolumeBot
+# PumpFunBot
 Free to use bump bot for your meme coins / pump fun tokens.
-# pump-fun-bump-bot
+# The Bot for YOU !
 
 This bot buy and sell automatically on pump.fun and raydium. 
+
+This bot is here to help any low-tier to whale type of coin maker!
 
 This bot is open-source and to support the project a fixed amount is taken off of every transaction.
 
@@ -20,7 +22,7 @@ NOTE: REMEMBER THAT FOR A TRANSACTION TO BE DISPLAYED YOU NEED TO HAVE A BUY AMO
 If you have git installed on your computer you can fetch the content of this repository with the command : 
 
 ```
-git clone https://github.com/FixeGanda/PumpFunVolumeBot.git
+git clone 
 ```
 
 Or you can just Download the Bot by clicking in the CODE button and Download the ZIP file
